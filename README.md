@@ -1,7 +1,7 @@
 # StarsWPF
 
 ## Description
-I needed some star shapes for a project at work, ended up making them with path geometry
+I needed some star shapes for a WPF project at work, ended up making them with path geometry
 
 ## References
  - https://stackoverflow.com/questions/29061275/how-to-style-a-wpf-togglebutton-like-star-button
